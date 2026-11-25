@@ -30,6 +30,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [WooCommerce Setup | stopfakeclicks Google Ads Bot Blocker](https://stopfakeclicks.com/setup/woocommerce)
 - [Terms of service — stopfakeclicks](https://stopfakeclicks.com/terms)
 - [Click Fraud Calculator: What Fake Clicks Cost Your Ads](https://stopfakeclicks.com/tools/click-fraud-calculator)
+- [Click Fraud Case Studies: Google Ads Stores, Real Numbers](https://stopfakeclicks.com/case-studies)
+- [Click Fraud Case Study: Dutch Store, 22 Exclusions](https://stopfakeclicks.com/case-studies/dutch-store-evidence-rules)
 
 ## Polski
 
@@ -57,6 +59,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Kalkulator fałszywych kliknięć: ile kosztują Google Ads](https://stopfakeclicks.com/pl/tools/click-fraud-calculator)
 - [Polityka prywatności — stopfakeclicks](https://stopfakeclicks.com/pl/privacy)
 - [Regulamin — stopfakeclicks](https://stopfakeclicks.com/pl/terms)
+- [Fałszywe kliknięcia: case studies sklepów z Google Ads](https://stopfakeclicks.com/pl/case-studies)
+- [Case study fałszywych kliknięć: sklep z Holandii, 22 wykluczenia](https://stopfakeclicks.com/pl/case-studies/dutch-store-evidence-rules)
 
 ## Deutsch
 
@@ -84,6 +88,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Klickbetrug-Rechner: Was Fake-Klicks Ihre Ads kosten](https://stopfakeclicks.com/de/tools/click-fraud-calculator)
 - [Datenschutzerklärung — stopfakeclicks](https://stopfakeclicks.com/de/privacy)
 - [Nutzungsbedingungen — stopfakeclicks](https://stopfakeclicks.com/de/terms)
+- [Klickbetrug-Fallstudien: Google Ads-Shops, echte Zahlen](https://stopfakeclicks.com/de/case-studies)
+- [Klickbetrug-Fallstudie: niederländischer Shop, 22 Ausschlüsse](https://stopfakeclicks.com/de/case-studies/dutch-store-evidence-rules)
 
 ## Français
 
@@ -111,6 +117,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Calculateur de fraude au clic : le coût des faux clics](https://stopfakeclicks.com/fr/tools/click-fraud-calculator)
 - [Politique de confidentialité — stopfakeclicks](https://stopfakeclicks.com/fr/privacy)
 - [Conditions d'utilisation — stopfakeclicks](https://stopfakeclicks.com/fr/terms)
+- [Études de cas de fraude au clic : boutiques Google Ads, vrais chiffres](https://stopfakeclicks.com/fr/case-studies)
+- [Étude de cas de fraude au clic : boutique néerlandaise, 22 exclusions](https://stopfakeclicks.com/fr/case-studies/dutch-store-evidence-rules)
 
 ## Español
 
@@ -138,6 +146,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Calculadora de fraude de clics: cuánto cuestan los falsos](https://stopfakeclicks.com/es/tools/click-fraud-calculator)
 - [Política de privacidad — stopfakeclicks](https://stopfakeclicks.com/es/privacy)
 - [Términos de servicio — stopfakeclicks](https://stopfakeclicks.com/es/terms)
+- [Casos de estudio de fraude de clics: tiendas con Google Ads](https://stopfakeclicks.com/es/case-studies)
+- [Caso de estudio de fraude de clics: tienda neerlandesa, 22 exclusiones](https://stopfakeclicks.com/es/case-studies/dutch-store-evidence-rules)
 
 ## Nederlands
 
@@ -165,6 +175,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Klikfraude-rekenhulp: wat nepklikken je Google Ads kosten](https://stopfakeclicks.com/nl/tools/click-fraud-calculator)
 - [Privacybeleid — stopfakeclicks](https://stopfakeclicks.com/nl/privacy)
 - [Algemene voorwaarden — stopfakeclicks](https://stopfakeclicks.com/nl/terms)
+- [Casestudy's over klikfraude: Google Ads-webwinkels, echte cijfers](https://stopfakeclicks.com/nl/case-studies)
+- [Casestudy klikfraude: Nederlandse webwinkel, 22 uitsluitingen](https://stopfakeclicks.com/nl/case-studies/dutch-store-evidence-rules)
 
 ## Português (Brasil)
 
@@ -192,6 +204,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Calculadora de fraude de cliques: custo dos cliques falsos](https://stopfakeclicks.com/pt-br/tools/click-fraud-calculator)
 - [Política de privacidade — stopfakeclicks](https://stopfakeclicks.com/pt-br/privacy)
 - [Termos de serviço — stopfakeclicks](https://stopfakeclicks.com/pt-br/terms)
+- [Estudos de caso de fraude de cliques: lojas no Google Ads](https://stopfakeclicks.com/pt-br/case-studies)
+- [Estudo de caso de fraude de cliques: loja holandesa, 22 exclusões](https://stopfakeclicks.com/pt-br/case-studies/dutch-store-evidence-rules)
 
 ## العربية
 
@@ -219,6 +233,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [حاسبة الاحتيال بالنقرات: تكلفة النقرات الوهمية على إعلاناتك](https://stopfakeclicks.com/ar/tools/click-fraud-calculator)
 - [سياسة الخصوصية — stopfakeclicks](https://stopfakeclicks.com/ar/privacy)
 - [شروط الخدمة — stopfakeclicks](https://stopfakeclicks.com/ar/terms)
+- [دراسات حالة النقرات الوهمية: متاجر إعلانات Google بالأرقام](https://stopfakeclicks.com/ar/case-studies)
+- [دراسة حالة النقرات الوهمية: متجر هولندي، 22 استبعادًا](https://stopfakeclicks.com/ar/case-studies/dutch-store-evidence-rules)
 
 ## 简体中文
 
@@ -246,3 +262,5 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [恶意点击计算器：算算谷歌广告的恶意点击成本](https://stopfakeclicks.com/zh/tools/click-fraud-calculator)
 - [隐私政策 — stopfakeclicks](https://stopfakeclicks.com/zh/privacy)
 - [服务条款 — stopfakeclicks](https://stopfakeclicks.com/zh/terms)
+- [恶意点击案例：谷歌广告店铺的真实数据](https://stopfakeclicks.com/zh/case-studies)
+- [点击欺诈案例：荷兰网店，22 个来源被排除](https://stopfakeclicks.com/zh/case-studies/dutch-store-evidence-rules)
