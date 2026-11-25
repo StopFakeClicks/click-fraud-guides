@@ -55,6 +55,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Konfiguracja Shopify | stopfakeclicks blokada botów](https://stopfakeclicks.com/pl/setup/shopify)
 - [Konfiguracja WooCommerce | stopfakeclicks blokada botów](https://stopfakeclicks.com/pl/setup/woocommerce)
 - [Kalkulator fałszywych kliknięć: ile kosztują Google Ads](https://stopfakeclicks.com/pl/tools/click-fraud-calculator)
+- [Polityka prywatności — stopfakeclicks](https://stopfakeclicks.com/pl/privacy)
+- [Regulamin — stopfakeclicks](https://stopfakeclicks.com/pl/terms)
 
 ## Deutsch
 
@@ -80,6 +82,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Shopify-Einrichtung | stopfakeclicks Bot-Blocker](https://stopfakeclicks.com/de/setup/shopify)
 - [WooCommerce-Einrichtung | stopfakeclicks Bot-Blocker](https://stopfakeclicks.com/de/setup/woocommerce)
 - [Klickbetrug-Rechner: Was Fake-Klicks Ihre Ads kosten](https://stopfakeclicks.com/de/tools/click-fraud-calculator)
+- [Datenschutzerklärung — stopfakeclicks](https://stopfakeclicks.com/de/privacy)
+- [Nutzungsbedingungen — stopfakeclicks](https://stopfakeclicks.com/de/terms)
 
 ## Français
 
@@ -105,6 +109,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Configuration Shopify | stopfakeclicks anti-bots](https://stopfakeclicks.com/fr/setup/shopify)
 - [Configuration WooCommerce | stopfakeclicks anti-bots](https://stopfakeclicks.com/fr/setup/woocommerce)
 - [Calculateur de fraude au clic : le coût des faux clics](https://stopfakeclicks.com/fr/tools/click-fraud-calculator)
+- [Politique de confidentialité — stopfakeclicks](https://stopfakeclicks.com/fr/privacy)
+- [Conditions d'utilisation — stopfakeclicks](https://stopfakeclicks.com/fr/terms)
 
 ## Español
 
@@ -130,6 +136,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Configuración en Shopify | stopfakeclicks antibots](https://stopfakeclicks.com/es/setup/shopify)
 - [Configuración en WooCommerce | stopfakeclicks antibots](https://stopfakeclicks.com/es/setup/woocommerce)
 - [Calculadora de fraude de clics: cuánto cuestan los falsos](https://stopfakeclicks.com/es/tools/click-fraud-calculator)
+- [Política de privacidad — stopfakeclicks](https://stopfakeclicks.com/es/privacy)
+- [Términos de servicio — stopfakeclicks](https://stopfakeclicks.com/es/terms)
 
 ## Nederlands
 
@@ -155,6 +163,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Instellen voor Shopify | stopfakeclicks botblokker](https://stopfakeclicks.com/nl/setup/shopify)
 - [Instellen voor WooCommerce | stopfakeclicks botblokker](https://stopfakeclicks.com/nl/setup/woocommerce)
 - [Klikfraude-rekenhulp: wat nepklikken je Google Ads kosten](https://stopfakeclicks.com/nl/tools/click-fraud-calculator)
+- [Privacybeleid — stopfakeclicks](https://stopfakeclicks.com/nl/privacy)
+- [Algemene voorwaarden — stopfakeclicks](https://stopfakeclicks.com/nl/terms)
 
 ## Português (Brasil)
 
@@ -180,6 +190,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Configuração na Shopify | stopfakeclicks antibots](https://stopfakeclicks.com/pt-br/setup/shopify)
 - [Configuração no WooCommerce | stopfakeclicks antibots](https://stopfakeclicks.com/pt-br/setup/woocommerce)
 - [Calculadora de fraude de cliques: custo dos cliques falsos](https://stopfakeclicks.com/pt-br/tools/click-fraud-calculator)
+- [Política de privacidade — stopfakeclicks](https://stopfakeclicks.com/pt-br/privacy)
+- [Termos de serviço — stopfakeclicks](https://stopfakeclicks.com/pt-br/terms)
 
 ## العربية
 
@@ -205,6 +217,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Shopify وإعلانات Google: إعداد مانع البوتات stopfakeclicks](https://stopfakeclicks.com/ar/setup/shopify)
 - [WooCommerce وإعلانات Google: ضبط مانع البوتات stopfakeclicks](https://stopfakeclicks.com/ar/setup/woocommerce)
 - [حاسبة الاحتيال بالنقرات: تكلفة النقرات الوهمية على إعلاناتك](https://stopfakeclicks.com/ar/tools/click-fraud-calculator)
+- [سياسة الخصوصية — stopfakeclicks](https://stopfakeclicks.com/ar/privacy)
+- [شروط الخدمة — stopfakeclicks](https://stopfakeclicks.com/ar/terms)
 
 ## 简体中文
 
@@ -230,3 +244,5 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Shopify 设置 | stopfakeclicks 机器人拦截](https://stopfakeclicks.com/zh/setup/shopify)
 - [WooCommerce 设置 | stopfakeclicks](https://stopfakeclicks.com/zh/setup/woocommerce)
 - [恶意点击计算器：算算谷歌广告的恶意点击成本](https://stopfakeclicks.com/zh/tools/click-fraud-calculator)
+- [隐私政策 — stopfakeclicks](https://stopfakeclicks.com/zh/privacy)
+- [服务条款 — stopfakeclicks](https://stopfakeclicks.com/zh/terms)
