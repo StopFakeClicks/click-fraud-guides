@@ -32,6 +32,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Click Fraud Calculator: What Fake Clicks Cost Your Ads](https://stopfakeclicks.com/tools/click-fraud-calculator)
 - [Click Fraud Case Studies: Google Ads Stores, Real Numbers](https://stopfakeclicks.com/case-studies)
 - [Click Fraud Case Study: Dutch Store, 22 Exclusions](https://stopfakeclicks.com/case-studies/dutch-store-evidence-rules)
+- [About stopfakeclicks: Who Makes the Google Ads Bot Blocker](https://stopfakeclicks.com/about)
+- [Contact stopfakeclicks: Support, Billing and Privacy Emails](https://stopfakeclicks.com/contact)
 
 ## Polski
 
@@ -61,6 +63,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Regulamin — stopfakeclicks](https://stopfakeclicks.com/pl/terms)
 - [Fałszywe kliknięcia: case studies sklepów z Google Ads](https://stopfakeclicks.com/pl/case-studies)
 - [Case study fałszywych kliknięć: sklep z Holandii, 22 wykluczenia](https://stopfakeclicks.com/pl/case-studies/dutch-store-evidence-rules)
+- [O stopfakeclicks: kto tworzy blokadę botów w Google Ads](https://stopfakeclicks.com/pl/about)
+- [Kontakt ze stopfakeclicks: adresy e-mail do pomocy, płatności i prywatności](https://stopfakeclicks.com/pl/contact)
 
 ## Deutsch
 
@@ -90,6 +94,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Nutzungsbedingungen — stopfakeclicks](https://stopfakeclicks.com/de/terms)
 - [Klickbetrug-Fallstudien: Google Ads-Shops, echte Zahlen](https://stopfakeclicks.com/de/case-studies)
 - [Klickbetrug-Fallstudie: niederländischer Shop, 22 Ausschlüsse](https://stopfakeclicks.com/de/case-studies/dutch-store-evidence-rules)
+- [Über stopfakeclicks: Wer den Bot-Blocker für Google Ads macht](https://stopfakeclicks.com/de/about)
+- [Kontakt zu stopfakeclicks: E-Mail für Support, Abrechnung und Datenschutz](https://stopfakeclicks.com/de/contact)
 
 ## Français
 
@@ -119,6 +125,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Conditions d'utilisation — stopfakeclicks](https://stopfakeclicks.com/fr/terms)
 - [Études de cas de fraude au clic : boutiques Google Ads, vrais chiffres](https://stopfakeclicks.com/fr/case-studies)
 - [Étude de cas de fraude au clic : boutique néerlandaise, 22 exclusions](https://stopfakeclicks.com/fr/case-studies/dutch-store-evidence-rules)
+- [À propos de stopfakeclicks : qui fait le bloqueur de bots pour Google Ads](https://stopfakeclicks.com/fr/about)
+- [Contacter stopfakeclicks : e-mails support, facturation et confidentialité](https://stopfakeclicks.com/fr/contact)
 
 ## Español
 
@@ -148,6 +156,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Términos de servicio — stopfakeclicks](https://stopfakeclicks.com/es/terms)
 - [Casos de estudio de fraude de clics: tiendas con Google Ads](https://stopfakeclicks.com/es/case-studies)
 - [Caso de estudio de fraude de clics: tienda neerlandesa, 22 exclusiones](https://stopfakeclicks.com/es/case-studies/dutch-store-evidence-rules)
+- [Sobre stopfakeclicks: quién hace el bloqueador de bots para Google Ads](https://stopfakeclicks.com/es/about)
+- [Contacto de stopfakeclicks: correos de soporte, facturación y privacidad](https://stopfakeclicks.com/es/contact)
 
 ## Nederlands
 
@@ -177,6 +187,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Algemene voorwaarden — stopfakeclicks](https://stopfakeclicks.com/nl/terms)
 - [Casestudy's over klikfraude: Google Ads-webwinkels, echte cijfers](https://stopfakeclicks.com/nl/case-studies)
 - [Casestudy klikfraude: Nederlandse webwinkel, 22 uitsluitingen](https://stopfakeclicks.com/nl/case-studies/dutch-store-evidence-rules)
+- [Over stopfakeclicks: wie de botblokker voor Google Ads maakt](https://stopfakeclicks.com/nl/about)
+- [Contact met stopfakeclicks: e-mail voor support, facturering en privacy](https://stopfakeclicks.com/nl/contact)
 
 ## Português (Brasil)
 
@@ -206,6 +218,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [Termos de serviço — stopfakeclicks](https://stopfakeclicks.com/pt-br/terms)
 - [Estudos de caso de fraude de cliques: lojas no Google Ads](https://stopfakeclicks.com/pt-br/case-studies)
 - [Estudo de caso de fraude de cliques: loja holandesa, 22 exclusões](https://stopfakeclicks.com/pt-br/case-studies/dutch-store-evidence-rules)
+- [Sobre o stopfakeclicks: quem faz o bloqueador de bots para Google Ads](https://stopfakeclicks.com/pt-br/about)
+- [Contato do stopfakeclicks: e-mails de suporte, cobrança e privacidade](https://stopfakeclicks.com/pt-br/contact)
 
 ## العربية
 
@@ -235,6 +249,8 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [شروط الخدمة — stopfakeclicks](https://stopfakeclicks.com/ar/terms)
 - [دراسات حالة النقرات الوهمية: متاجر إعلانات Google بالأرقام](https://stopfakeclicks.com/ar/case-studies)
 - [دراسة حالة النقرات الوهمية: متجر هولندي، 22 استبعادًا](https://stopfakeclicks.com/ar/case-studies/dutch-store-evidence-rules)
+- [عن stopfakeclicks: من يصنع مانع البوتات لإعلانات Google](https://stopfakeclicks.com/ar/about)
+- [التواصل مع stopfakeclicks: بريد الدعم والفوترة والخصوصية](https://stopfakeclicks.com/ar/contact)
 
 ## 简体中文
 
@@ -264,3 +280,6 @@ Below: every public page of stopfakeclicks.com, in the 9 languages the site is w
 - [服务条款 — stopfakeclicks](https://stopfakeclicks.com/zh/terms)
 - [恶意点击案例：谷歌广告店铺的真实数据](https://stopfakeclicks.com/zh/case-studies)
 - [点击欺诈案例：荷兰网店，22 个来源被排除](https://stopfakeclicks.com/zh/case-studies/dutch-store-evidence-rules)
+- [关于 stopfakeclicks：谷歌广告机器人拦截工具由谁开发](https://stopfakeclicks.com/zh/about)
+- [联系 stopfakeclicks：支持、结算和隐私邮箱](https://stopfakeclicks.com/zh/contact)
+
